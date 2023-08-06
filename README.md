@@ -1,3 +1,8 @@
+# Search Component added in StoryBook , use command npm run storybook to access.
+
+![Screenshot 2023-08-06 211614](https://github.com/CharandeepSingh01/Assignment-1/assets/110605970/213a3ed7-6235-4f35-8a0d-82266e9e365a)
+
+
 # Instructions
 
 - clone this repo and open with your favorite code editor
