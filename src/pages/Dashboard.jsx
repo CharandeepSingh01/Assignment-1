@@ -41,8 +41,8 @@ const Dashboard = () => {
           primaryTitle="Orders"
           secondaryTitle={
             searchText
-              ? `${filteredRows.length} orders (filtered)`
-              : `${mockData.results.length} orders`
+              ? `${filteredRows.length} orders found`
+              : `${mockData.results.length} total orders`
           }
         />
         <div className={styles.actionBox}>
